@@ -1,0 +1,14 @@
+{
+  "name": "bun-navmesh-replica",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "recast-navigation": "^0.16.0"
+  }
+}
